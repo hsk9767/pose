@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"python.pythonPath": "/home/hsk9767/miniconda3/envs/pytorch/bin/python3.7"
+	}
+}
